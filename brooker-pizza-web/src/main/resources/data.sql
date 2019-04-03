@@ -1,0 +1,2 @@
+INSERT INTO finan_instrument_tb(f_i_name_id, name, price, bid, ask, quantity) VALUES ('IT0000336518','JUVENTUS FOOTBALL CLUB SPA - JUVE', 10.00, 15.00, 20.00, 100);
+INSERT INTO finan_instrument_tb(f_i_name_id, name, price, bid, ask, quantity) VALUES ('IT0001008876','AS ROMA SPA  - ASR', 10.00, 15.00, 20.00, 100);
